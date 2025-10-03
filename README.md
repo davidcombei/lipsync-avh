@@ -10,4 +10,6 @@ To run:
 
 Inside avh-align, specify the file you want to analyse.
 
-Designed by Bitdefender
+
+
+Credits: Bitdefender-ML
