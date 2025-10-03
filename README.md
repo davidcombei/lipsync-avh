@@ -1,10 +1,12 @@
 # lipsync-avh
-install pip==24 ;  python==3.10.14
 
-pip install -r requirements.txt
 
 To run:
-
+- install python 3.10.14
+- pip install pip==24
+- git clone https://github.com/davidcombei/lipsync-avh.git
+- cd lipsync-avh/AVH-Align/
+- pip install -r requirements.txt
 - cd lipsync-avh/AVH-Align/av_hubert/
 - python -m avh-align dummy_args
 
