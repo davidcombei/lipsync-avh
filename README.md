@@ -12,4 +12,3 @@ Inside avh-align, specify the file you want to analyse.
 
 
 
-Credits: Bitdefender-ML
