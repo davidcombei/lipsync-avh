@@ -5,7 +5,7 @@ pip install -r requirements.txt
 
 To run:
 
-- cd AVH-Align/av_hubert/
+- cd lipsync-avh/AVH-Align/av_hubert/
 - python -m avh-align dummy_args
 
 Inside avh-align, specify the file you want to analyse.
